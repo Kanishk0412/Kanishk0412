@@ -54,5 +54,5 @@
 <br/>
 <br/>
 
-## ❤ Views and Followers
+## ❤ Followers
 <a href="https://github.com/Kanishk0412?tab=followers"><img src="https://img.shields.io/github/followers/Kanishk0412?label=Followers&style=social" alt="GitHub Badge"></a>
