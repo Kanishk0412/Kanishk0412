@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanishk Tyagi</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kanishk Tyagi</h1>
 <h3 align="center">I'm third Second Year Engineering Stuudent !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishk0412&label=Profile%20views&color=0cdeed&style=plastic" alt="kanishk0412" /> </p>
@@ -53,6 +53,16 @@
 
 <br/>
 <br/>
+
+<img align="left" alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsreekaransrinath.github.io"/>
+[<img align="left" alt="Discord" src="https://img.shields.io/discord/384024830988648450?color=blue&label=Discord&logo=discord&style=for-the-badge"/>][discord]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+
+
+[twitter]: https://twitter.com/20_kanishk
+[linkedin]: https://www.linkedin.com/in/kanishk-tyagi-32970a173/
+[discord]: https://discord.gg/HaRrY_pOttEr#4204
+
 
 ## ❤ Followers
 <a href="https://github.com/Kanishk0412?tab=followers"><img src="https://img.shields.io/github/followers/Kanishk0412?label=Followers&style=social" alt="GitHub Badge"></a>
