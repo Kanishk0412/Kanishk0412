@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kanishk Tyagi</h1>
 <h3 align="center">I'm third Second Year Engineering Stuudent !!</h3>
@@ -74,3 +76,7 @@
 
 ## ❤ Followers
 <a href="https://github.com/Kanishk0412?tab=followers"><img src="https://img.shields.io/github/followers/Kanishk0412?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<hr>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
