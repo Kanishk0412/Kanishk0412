@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Software Freedom Day Website**
+- 🔭 I’m currently working on **Hackathon Website**
 
 - 🌱 I’m currently learning **Machine Learning using Python**
 
