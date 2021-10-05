@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Hackathon Website**
 
-- 🌱 I’m currently learning **Machine Learning using Python**
+- 🌱 I’m currently learning **Machine & Deep Learning using Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Project**
 
